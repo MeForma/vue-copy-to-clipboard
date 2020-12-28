@@ -1,6 +1,8 @@
 # Vue Copy To Clipboard
 
-A simple vue 3 plugin to copy text to clipboard
+A simple vue 3 plugin to copy text to clipboard.
+
+This plugin is compatible with browsers that can execute [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API) and browsers that can execute [execCommand('copy')](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/execCommand), alternatively.
 
 ## Installation
 
@@ -33,8 +35,6 @@ this.$copyText("Text to copy")
     console.log(`can't copy`);
   });
 ```
-
-This plugin is compatible with browsers that can execute [Clipboard API](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard_API) and browsers that can execute [execCommand('copy')](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/execCommand), alternatively.
 
 ## License
 
