@@ -1,0 +1,27 @@
+{
+  "name": "@meforma/vue-copy-to-clipboard",
+  "version": "0.0.1",
+  "description": "Vue.js 3 plugin to copy text to clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeForma/vue-copy-to-clipboard.git"
+  },
+  "keywords": [
+    "copy",
+    "clipboard",
+    "text",
+    "vue",
+    "vue3",
+    "js"
+  ],
+  "author": "@jprodrigues70",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeForma/vue-copy-to-clipboard/issues"
+  },
+  "homepage": "https://github.com/MeForma/vue-copy-to-clipboard#readme"
+}
